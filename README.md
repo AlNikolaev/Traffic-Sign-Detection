@@ -5,7 +5,5 @@
 # Запуск
 Для проверки работы системы необходимо запустить **sign_traffic_detection.ipynb**. По умолчанию система находит все **jpg** изображения в папке **test_images** и пытается распознать дорожные знаки на этих изображениях. Результат работы системы сохраняется в папке **output_images**.       
 
-# Замечания
-* Так 
-*
-*
+# Пример результата работы
+![alt text](https://github.com/AlNikolaev/Traffic-Sign-Detection/blob/master/output_images/00762.jpg)
